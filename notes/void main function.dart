@@ -3,7 +3,7 @@
 //}
 
 
-void main(List<String> arguments) {
+void main(arguments) {
   print("items in list: ${arguments}");
 
 if(arguments.length==0){
@@ -14,4 +14,4 @@ if(arguments.length==0){
 }
 }
 
-//musr run in terminal to see the result
+//must run in terminal to see the result
