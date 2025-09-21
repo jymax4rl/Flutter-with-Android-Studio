@@ -26,6 +26,8 @@ assert(arguments[1] == 'test');
 ```
 
 # Example:
+
+```dart
 void main(arguments) {
 print("items in list: ${arguments}");
 
@@ -36,7 +38,7 @@ print('no arguments passed');
 print('arguments list length is ${arguments.length}');
 }
 }
-
+```
 ## must run in terminal to see the result:
 
 ![img.png](img.png)
