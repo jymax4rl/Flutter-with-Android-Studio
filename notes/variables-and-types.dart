@@ -36,7 +36,17 @@ void main(){
 
  // late
 
- late var age01;
+ late var age01;// late + var allows the variable to be initialized later
+ //must be initialized before its use!!
+ //print(age01);err is thrown becausse the variable is not initialized
+
+  age01 = 'late var variable initialized';
+
+ print(age01);
+
+ //before its use
+ //age01 = 'late var variable initialized';
+
 }
 
 
