@@ -74,7 +74,8 @@ void setup() {
   config = "Version A"; // A partir de là, plus de modification possible !
 }
 ````
-Cela peut être très pratique dans certaines situations comme l’injection de dépendances, ou la lecture d’une valeur depuis un fichier ou une API qui ne sont pas disponibles à la compilation.
+Cela peut être très pratique dans certaines situations comme l’injection de dépendances, 
+ou la lecture d’une valeur depuis un fichier ou une API qui ne sont pas disponibles à la compilation.
 
 
 
